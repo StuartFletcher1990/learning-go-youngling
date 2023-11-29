@@ -1,3 +1,3 @@
-module github.com/StuartFletcher1990/learning-go-youngling
+module young
 
 go 1.21.0
